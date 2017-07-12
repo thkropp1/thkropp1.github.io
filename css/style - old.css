@@ -1,0 +1,92 @@
+    body {
+        background-color: #efeee7
+        font-family: Georgia, "Times New Roman", Times, serif;
+        color: #333333;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #333333;
+    }  
+
+    h1 {
+
+        color: #eee;
+        font-size: 28px;
+    }
+
+
+
+    .container { 
+     }
+
+    #main-bio {
+    color:black;
+    }
+
+
+    #contact-info {
+        color: black;
+    }
+
+    #bio-image {
+        font-family: cursive;
+    }
+
+   
+
+    .blueText {
+        color: blue;
+        font-size: 12px;
+    }
+
+    .greenText {
+        color: green;
+        font-size: 12px;
+    }
+
+    .multiText {
+        color: orange;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .bigText {
+        color: black;
+        font-size: 24px;
+    }
+
+    .smallText {
+        color: black;
+        font-size: 8px;
+    }
+
+    .centerText {
+        text-align: center;
+    }
+
+    .boldText{
+        font-weight: bold;
+    }
+
+    .changeFont{
+        font-family: "Times New Roman";
+    }
+
+
+    .styledFont{
+        color: green;
+        font-size: 12px;
+        font-family: "Arial";
+    }
+
+    .sizeFont{
+        font-size: 10px;
+    }
+
+    .styledImage{
+        border: 12px solid orange;
+    }
+
+    }
